@@ -42,4 +42,4 @@ Strategically use domestic airports to stay one step ahead. At the beginning, yo
 
 The longer you evade capture, the higher your chances of winning. Collect points based on the airport's degree (number of connections) but remember, crowded airports offer more points and danger. Choose wisely and escape the hunters' clutches!
 
-![Hunter](Epid_year2.jpg)
+![Hunter](Game.jpg)
